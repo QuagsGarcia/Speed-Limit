@@ -1,0 +1,23 @@
+@font-face {
+	font-family: 'TESLA';
+	src: url('hwygothic.ttf')
+}
+
+body {
+  font-family: 'TESLA'
+}
+
+
+.m1l-2-c {
+  position: absolute;
+  font-size: 1.7vw;
+  bottom: 6.35vw;
+  left: 17.83vw;	
+  font-weight: 450;
+}
+.m1l-2 {
+	position: absolute;
+	width: 3vw;
+	bottom: 6.3vw;
+	left: 17.3vw;
+}
